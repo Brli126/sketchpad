@@ -1,0 +1,42 @@
+
+
+body {
+    background-color: skyblue;
+}
+
+header {
+    font-size:xx-large;
+    text-align: center;
+    margin: 50px;
+}
+
+.big-container {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+
+.option-bar {
+    width: 300px;
+    height: 960px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.clear {
+    width: 100px;
+    height: 35px;
+    display: block;
+}
+
+
+.grid-container {
+    flex-basis: ;
+    width: 960px;
+    height: 960px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+}
